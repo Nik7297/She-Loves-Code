@@ -1,0 +1,53 @@
+*{
+  font-family: "Chivo", Sans-serif;
+}
+
+.justified{
+    text-align: justify;
+  }
+  .logo img{
+    width: 120px;
+  }
+  .navbar .nav-link{
+    color: #fff;
+  }
+  .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link{
+    color: #ff9d8f;
+  }
+  
+  #banner{
+    background: linear-gradient(180deg, #E6F0FF 90%, #FFFFFF 100%);
+  }
+  #banner .col-sm-6:first-of-type img{
+    width: 85%;
+  }
+  
+  
+  #fullPotential{
+    background-color: #E9F7F7;
+  }
+
+  .btn{
+    background-color: lightpink;
+  }
+  .headthis{
+    background-color: black;
+    color: #F9A8A8;;
+    font-weight: bold;
+    font-size: xx-larger;
+  }
+
+  .boxtextha{
+    color: #E9F7F7; 
+  }
+  .color-inc-css{
+    background: linear-gradient(180deg, #E6F0FF 90%, #FFFFFF 100%);
+    padding: 50px;
+  }
+
+  .last-footer{
+    background-color: #FFCFCF;
+  }
+  .copyright-box{
+    padding:10px 0 10px 150px;
+  }
