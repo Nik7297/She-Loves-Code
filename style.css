@@ -42,7 +42,7 @@
   }
   .color-inc-css{
     background: linear-gradient(180deg, #E6F0FF 90%, #FFFFFF 100%);
-    padding: 50px;
+    /* padding: 50px; */
   }
 
   .last-footer{
@@ -50,4 +50,9 @@
   }
   .copyright-box{
     padding:10px 0 10px 150px;
+  }
+  .ancor-decorastion{
+    text-decoration: none;
+    color: black;
+    list-style: none;
   }
